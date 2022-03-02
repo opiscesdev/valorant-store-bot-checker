@@ -1,0 +1,30 @@
+● **help**
+ show this message
+● **shop, store**
+ show your valorant daily store
+● **nightmarket**
+ Get the contents of the night store, if it is open
+● **ranking**
+ top 4 skins that has appeared on the most people today.
+● **autosend**
+ Automatically send today's store content at a specified time (e.g., every morning at 8:00 a.m.).
+● **onlyhere**
+ The store command will be available only on the channel where this command was executed
+● **everywhere**
+ Make the Store command responsive on all channels
+● **rank**
+ Get the rank information of the registered account
+● **list**
+ Get a list of your registered accounts
+● **update**
+ Update the contents of the registered account.
+● **randommap**
+ Randomly select one of the currently existing maps
+● **language, lang**
+ Change the language of the BOT
+● **premium**
+ Get the details of premium users
+● **register**
+ Register your account information.
+● **unregister**
+ Unregister your account information.
