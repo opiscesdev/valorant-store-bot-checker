@@ -1,5 +1,3 @@
-sqlalchemy
+py-cord==2.0.0b5
 requests
-valorant-api
-git+https://github.com/Rapptz/discord.py
 python-dotenv
